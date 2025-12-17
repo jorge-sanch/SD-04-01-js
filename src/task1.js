@@ -2,7 +2,6 @@ const arr = []
 
 // Escribe tu codigo por debajo de esta linea
 
-
 arr.push(1);
 arr.push(2);
 arr.push(3);
